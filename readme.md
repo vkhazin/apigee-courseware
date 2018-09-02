@@ -40,4 +40,4 @@
 * Software development, system administration, and operational experience
 * Familiarity with software design and architecture patterns: Web, Restful, Mobile, and Message Driven
 
-# Course Duration: 2-3 days (TBD)
+## Course Duration: 2-3 days (TBD)
